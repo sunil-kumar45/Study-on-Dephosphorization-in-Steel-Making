@@ -8,8 +8,8 @@ Department of Quality Assurance & Technology Development(QA&TD)
 
 # 👨‍🎓 Author
 
-Ramavath Sunil Kumar
-B.Tech – Metallurgical Engineering & Materials Science
+Ramavath Sunil Kumar-
+B.Tech – Metallurgical Engineering & Materials Science-
 Indian Institute of Technology Indore
 
 # 📅 Duration
